@@ -1,2 +1,2 @@
 # domoos-presentation
-Presentaion for DomoOS environment
+Presentation for DomoOS environment
